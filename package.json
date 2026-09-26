@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-septa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SEPTA MCP — Philadelphia SEPTA real-time transit (www3.septa.org/api, keyless)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-678050e26eb9543340c5f50917ebdedbc4dfb4b0014c7a33f87cc3f010a80986",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-ee364c82ff7a9131b5b2991d1a0bd200ce75513f3929e02a7905c94ad23faa9d",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
